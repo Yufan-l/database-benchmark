@@ -1,1 +1,2 @@
-The performance of CRUD operation and algorithms in graph datab
+The performance of CRUD operation and algorithms in graph databases.
+There are DEX, Neo4j, Titan and OrientDB performance tests in BluepirntAPI

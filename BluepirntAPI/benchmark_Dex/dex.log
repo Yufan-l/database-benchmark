@@ -1,0 +1,629 @@
+2013-10-28 11:42:13.451|DEX[INFO] ** START ** 2013-10-28 11:42:13.451 Software version: 4.8.2
+2013-10-28 11:42:13.451|DEX[INFO] No license code
+2013-10-28 11:42:13.451|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 11:42:13.452|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been created at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 12:22:37.325|DEX[INFO] ** START ** 2013-10-28 12:22:37.325 Software version: 4.8.2
+2013-10-28 12:22:37.325|DEX[INFO] No license code
+2013-10-28 12:22:37.326|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 17:16:46.176|DEX[INFO] ** START ** 2013-10-28 17:16:46.176 Software version: 4.8.2
+2013-10-28 17:16:46.176|DEX[INFO] No license code
+2013-10-28 17:16:46.176|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 17:30:44.001|DEX[INFO] ** START ** 2013-10-28 17:30:44.001 Software version: 4.8.2
+2013-10-28 17:30:44.001|DEX[INFO] No license code
+2013-10-28 17:30:44.001|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 17:30:44.002|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been created at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 17:30:44.203|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 17:30:44.204|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-28 17:30:44.204|DEX[INFO] Scheduler stopped.
+2013-10-28 17:30:44.204|DEX[INFO] ** SHUTDOWN ** 2013-10-28 17:30:44.204
+2013-10-28 17:39:18.245|DEX[INFO] ** START ** 2013-10-28 17:39:18.245 Software version: 4.8.2
+2013-10-28 17:39:18.245|DEX[INFO] No license code
+2013-10-28 17:39:18.245|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 17:39:18.246|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been created at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 17:39:18.447|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 17:39:18.448|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-28 17:39:18.448|DEX[INFO] Scheduler stopped.
+2013-10-28 17:39:18.448|DEX[INFO] ** SHUTDOWN ** 2013-10-28 17:39:18.448
+2013-10-28 17:39:23.921|DEX[INFO] ** START ** 2013-10-28 17:39:23.921 Software version: 4.8.2
+2013-10-28 17:39:23.921|DEX[INFO] No license code
+2013-10-28 17:39:23.921|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 17:39:23.922|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 17:39:24.123|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 17:39:24.123|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-28 17:39:24.124|DEX[INFO] Scheduler stopped.
+2013-10-28 17:39:24.124|DEX[INFO] ** SHUTDOWN ** 2013-10-28 17:39:24.124
+2013-10-28 17:39:25.816|DEX[INFO] ** START ** 2013-10-28 17:39:25.816 Software version: 4.8.2
+2013-10-28 17:39:25.816|DEX[INFO] No license code
+2013-10-28 17:39:25.816|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 17:39:25.817|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 17:39:26.017|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 17:39:26.018|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-28 17:39:26.018|DEX[INFO] Scheduler stopped.
+2013-10-28 17:39:26.018|DEX[INFO] ** SHUTDOWN ** 2013-10-28 17:39:26.018
+2013-10-28 17:40:21.586|DEX[INFO] ** START ** 2013-10-28 17:40:21.586 Software version: 4.8.2
+2013-10-28 17:40:21.586|DEX[INFO] No license code
+2013-10-28 17:40:21.586|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 17:40:21.587|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been created at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 17:40:21.788|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 17:40:21.788|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-28 17:40:21.788|DEX[INFO] Scheduler stopped.
+2013-10-28 17:40:21.788|DEX[INFO] ** SHUTDOWN ** 2013-10-28 17:40:21.788
+2013-10-28 17:40:25.648|DEX[INFO] ** START ** 2013-10-28 17:40:25.648 Software version: 4.8.2
+2013-10-28 17:40:25.648|DEX[INFO] No license code
+2013-10-28 17:40:25.649|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 17:40:25.650|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 17:40:25.850|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 17:40:25.850|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-28 17:40:25.850|DEX[INFO] Scheduler stopped.
+2013-10-28 17:40:25.850|DEX[INFO] ** SHUTDOWN ** 2013-10-28 17:40:25.850
+2013-10-28 22:37:21.535|DEX[INFO] ** START ** 2013-10-28 22:37:21.535 Software version: 4.8.2
+2013-10-28 22:37:21.535|DEX[INFO] No license code
+2013-10-28 22:37:21.535|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 22:37:21.536|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been created at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 22:37:21.737|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 22:37:21.737|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-28 22:37:21.737|DEX[INFO] Scheduler stopped.
+2013-10-28 22:37:21.737|DEX[INFO] ** SHUTDOWN ** 2013-10-28 22:37:21.737
+2013-10-28 22:37:25.894|DEX[INFO] ** START ** 2013-10-28 22:37:25.894 Software version: 4.8.2
+2013-10-28 22:37:25.894|DEX[INFO] No license code
+2013-10-28 22:37:25.894|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 22:37:25.895|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 22:37:26.096|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 22:37:26.097|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-28 22:37:26.097|DEX[INFO] Scheduler stopped.
+2013-10-28 22:37:26.097|DEX[INFO] ** SHUTDOWN ** 2013-10-28 22:37:26.097
+2013-10-28 22:58:08.712|DEX[INFO] ** START ** 2013-10-28 22:58:08.712 Software version: 4.8.2
+2013-10-28 22:58:08.712|DEX[INFO] No license code
+2013-10-28 22:58:08.712|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 22:58:08.714|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 22:59:00.903|DEX[INFO] ** START ** 2013-10-28 22:59:00.903 Software version: 4.8.2
+2013-10-28 22:59:00.903|DEX[INFO] No license code
+2013-10-28 22:59:00.903|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 22:59:00.906|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 22:59:22.800|DEX[INFO] ** START ** 2013-10-28 22:59:22.800 Software version: 4.8.2
+2013-10-28 22:59:22.800|DEX[INFO] No license code
+2013-10-28 22:59:22.800|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 22:59:22.802|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:00:15.741|DEX[INFO] ** START ** 2013-10-28 23:00:15.741 Software version: 4.8.2
+2013-10-28 23:00:15.741|DEX[INFO] No license code
+2013-10-28 23:00:15.741|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 23:00:15.743|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:00:50.095|DEX[INFO] ** START ** 2013-10-28 23:00:50.095 Software version: 4.8.2
+2013-10-28 23:00:50.095|DEX[INFO] No license code
+2013-10-28 23:00:50.095|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 23:00:50.097|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:00:50.298|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:00:50.298|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-28 23:00:50.298|DEX[INFO] Scheduler stopped.
+2013-10-28 23:00:50.298|DEX[INFO] ** SHUTDOWN ** 2013-10-28 23:00:50.298
+2013-10-28 23:04:46.839|DEX[INFO] ** START ** 2013-10-28 23:04:46.839 Software version: 4.8.2
+2013-10-28 23:04:46.839|DEX[INFO] No license code
+2013-10-28 23:04:46.839|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 23:04:46.840|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been created at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:07:21.640|DEX[INFO] ** START ** 2013-10-28 23:07:21.640 Software version: 4.8.2
+2013-10-28 23:07:21.640|DEX[INFO] No license code
+2013-10-28 23:07:21.640|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 23:07:48.391|DEX[INFO] ** START ** 2013-10-28 23:07:48.391 Software version: 4.8.2
+2013-10-28 23:07:48.391|DEX[INFO] No license code
+2013-10-28 23:07:48.391|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 23:07:48.392|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been created at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:08:59.012|DEX[INFO] ** START ** 2013-10-28 23:08:59.012 Software version: 4.8.2
+2013-10-28 23:08:59.012|DEX[INFO] No license code
+2013-10-28 23:08:59.012|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 23:08:59.013|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been created at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:08:59.214|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:08:59.214|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-28 23:08:59.214|DEX[INFO] Scheduler stopped.
+2013-10-28 23:08:59.214|DEX[INFO] ** SHUTDOWN ** 2013-10-28 23:08:59.214
+2013-10-28 23:09:00.914|DEX[INFO] ** START ** 2013-10-28 23:09:00.914 Software version: 4.8.2
+2013-10-28 23:09:00.914|DEX[INFO] No license code
+2013-10-28 23:09:00.914|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 23:09:00.916|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:09:01.116|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:09:01.117|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-28 23:09:01.117|DEX[INFO] Scheduler stopped.
+2013-10-28 23:09:01.117|DEX[INFO] ** SHUTDOWN ** 2013-10-28 23:09:01.117
+2013-10-28 23:09:02.509|DEX[INFO] ** START ** 2013-10-28 23:09:02.509 Software version: 4.8.2
+2013-10-28 23:09:02.509|DEX[INFO] No license code
+2013-10-28 23:09:02.509|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 23:09:02.510|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:09:02.711|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:09:02.711|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-28 23:09:02.711|DEX[INFO] Scheduler stopped.
+2013-10-28 23:09:02.711|DEX[INFO] ** SHUTDOWN ** 2013-10-28 23:09:02.711
+2013-10-28 23:10:30.464|DEX[INFO] ** START ** 2013-10-28 23:10:30.464 Software version: 4.8.2
+2013-10-28 23:10:30.464|DEX[INFO] No license code
+2013-10-28 23:10:30.464|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 23:10:30.465|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:17:53.426|DEX[INFO] ** START ** 2013-10-28 23:17:53.426 Software version: 4.8.2
+2013-10-28 23:17:53.426|DEX[INFO] No license code
+2013-10-28 23:17:53.426|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 23:17:53.427|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been created at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:18:23.333|DEX[INFO] ** START ** 2013-10-28 23:18:23.333 Software version: 4.8.2
+2013-10-28 23:18:23.333|DEX[INFO] No license code
+2013-10-28 23:18:23.333|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 23:18:23.334|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been created at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:18:23.535|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:18:23.536|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-28 23:18:23.536|DEX[INFO] Scheduler stopped.
+2013-10-28 23:18:23.536|DEX[INFO] ** SHUTDOWN ** 2013-10-28 23:18:23.536
+2013-10-28 23:18:25.621|DEX[INFO] ** START ** 2013-10-28 23:18:25.621 Software version: 4.8.2
+2013-10-28 23:18:25.621|DEX[INFO] No license code
+2013-10-28 23:18:25.621|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 23:18:25.622|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:18:25.823|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:18:25.823|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-28 23:18:25.824|DEX[INFO] Scheduler stopped.
+2013-10-28 23:18:25.824|DEX[INFO] ** SHUTDOWN ** 2013-10-28 23:18:25.824
+2013-10-28 23:18:26.571|DEX[INFO] ** START ** 2013-10-28 23:18:26.571 Software version: 4.8.2
+2013-10-28 23:18:26.571|DEX[INFO] No license code
+2013-10-28 23:18:26.571|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 23:18:26.572|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:18:26.774|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:18:26.774|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-28 23:18:26.774|DEX[INFO] Scheduler stopped.
+2013-10-28 23:18:26.774|DEX[INFO] ** SHUTDOWN ** 2013-10-28 23:18:26.774
+2013-10-28 23:18:31.458|DEX[INFO] ** START ** 2013-10-28 23:18:31.458 Software version: 4.8.2
+2013-10-28 23:18:31.458|DEX[INFO] No license code
+2013-10-28 23:18:31.458|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 23:18:31.459|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:29:29.086|DEX[INFO] ** START ** 2013-10-28 23:29:29.086 Software version: 4.8.2
+2013-10-28 23:29:29.086|DEX[INFO] No license code
+2013-10-28 23:29:29.086|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 23:29:29.088|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:33:30.290|DEX[INFO] ** START ** 2013-10-28 23:33:30.290 Software version: 4.8.2
+2013-10-28 23:33:30.290|DEX[INFO] No license code
+2013-10-28 23:33:30.290|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 23:33:30.295|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:33:30.496|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:33:30.496|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-28 23:33:30.496|DEX[INFO] Scheduler stopped.
+2013-10-28 23:33:30.496|DEX[INFO] ** SHUTDOWN ** 2013-10-28 23:33:30.496
+2013-10-28 23:33:43.796|DEX[INFO] ** START ** 2013-10-28 23:33:43.796 Software version: 4.8.2
+2013-10-28 23:33:43.796|DEX[INFO] No license code
+2013-10-28 23:33:43.796|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 23:33:43.797|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:33:43.998|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:33:43.999|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-28 23:33:43.999|DEX[INFO] Scheduler stopped.
+2013-10-28 23:33:43.999|DEX[INFO] ** SHUTDOWN ** 2013-10-28 23:33:43.999
+2013-10-28 23:34:43.385|DEX[INFO] ** START ** 2013-10-28 23:34:43.385 Software version: 4.8.2
+2013-10-28 23:34:43.385|DEX[INFO] No license code
+2013-10-28 23:34:43.385|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-28 23:34:43.386|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:34:43.587|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-28 23:34:43.587|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-28 23:34:43.588|DEX[INFO] Scheduler stopped.
+2013-10-28 23:34:43.588|DEX[INFO] ** SHUTDOWN ** 2013-10-28 23:34:43.588
+2013-10-29 10:30:36.256|DEX[INFO] ** START ** 2013-10-29 10:30:36.256 Software version: 4.8.2
+2013-10-29 10:30:36.259|DEX[INFO] No license code
+2013-10-29 10:30:36.259|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:30:36.266|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:30:36.467|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:30:36.467|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 10:30:36.467|DEX[INFO] Scheduler stopped.
+2013-10-29 10:30:36.467|DEX[INFO] ** SHUTDOWN ** 2013-10-29 10:30:36.467
+2013-10-29 10:33:22.990|DEX[INFO] ** START ** 2013-10-29 10:33:22.990 Software version: 4.8.2
+2013-10-29 10:33:22.990|DEX[INFO] No license code
+2013-10-29 10:33:22.990|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:33:22.991|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:33:23.192|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:33:23.192|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 10:33:23.192|DEX[INFO] Scheduler stopped.
+2013-10-29 10:33:23.193|DEX[INFO] ** SHUTDOWN ** 2013-10-29 10:33:23.192
+2013-10-29 10:33:24.158|DEX[INFO] ** START ** 2013-10-29 10:33:24.158 Software version: 4.8.2
+2013-10-29 10:33:24.158|DEX[INFO] No license code
+2013-10-29 10:33:24.158|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:33:24.160|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:33:24.361|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:33:24.361|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 10:33:24.361|DEX[INFO] Scheduler stopped.
+2013-10-29 10:33:24.362|DEX[INFO] ** SHUTDOWN ** 2013-10-29 10:33:24.361
+2013-10-29 10:33:37.579|DEX[INFO] ** START ** 2013-10-29 10:33:37.579 Software version: 4.8.2
+2013-10-29 10:33:37.579|DEX[INFO] No license code
+2013-10-29 10:33:37.579|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:33:37.580|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:33:37.781|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:33:37.781|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 10:33:37.782|DEX[INFO] Scheduler stopped.
+2013-10-29 10:33:37.782|DEX[INFO] ** SHUTDOWN ** 2013-10-29 10:33:37.782
+2013-10-29 10:33:39.597|DEX[INFO] ** START ** 2013-10-29 10:33:39.597 Software version: 4.8.2
+2013-10-29 10:33:39.597|DEX[INFO] No license code
+2013-10-29 10:33:39.597|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:33:39.598|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:33:39.798|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:33:39.798|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 10:33:39.798|DEX[INFO] Scheduler stopped.
+2013-10-29 10:33:39.798|DEX[INFO] ** SHUTDOWN ** 2013-10-29 10:33:39.798
+2013-10-29 10:33:40.461|DEX[INFO] ** START ** 2013-10-29 10:33:40.461 Software version: 4.8.2
+2013-10-29 10:33:40.461|DEX[INFO] No license code
+2013-10-29 10:33:40.461|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:33:40.462|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:33:40.663|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:33:40.663|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 10:33:40.663|DEX[INFO] Scheduler stopped.
+2013-10-29 10:33:40.663|DEX[INFO] ** SHUTDOWN ** 2013-10-29 10:33:40.663
+2013-10-29 10:33:41.049|DEX[INFO] ** START ** 2013-10-29 10:33:41.049 Software version: 4.8.2
+2013-10-29 10:33:41.049|DEX[INFO] No license code
+2013-10-29 10:33:41.049|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:33:41.051|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:33:41.252|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:33:41.252|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 10:33:41.253|DEX[INFO] Scheduler stopped.
+2013-10-29 10:33:41.253|DEX[INFO] ** SHUTDOWN ** 2013-10-29 10:33:41.253
+2013-10-29 10:33:44.035|DEX[INFO] ** START ** 2013-10-29 10:33:44.035 Software version: 4.8.2
+2013-10-29 10:33:44.035|DEX[INFO] No license code
+2013-10-29 10:33:44.035|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:33:44.036|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:33:44.048|DEX[INFO] ** START ** 2013-10-29 10:33:44.048 Software version: 4.8.2
+2013-10-29 10:33:44.048|DEX[INFO] No license code
+2013-10-29 10:33:44.048|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:33:44.048|GraphPool[SEVERE] Error loading the file "/Users/yliu/Documents/ca-AstroPh_Dex".
+2013-10-29 10:33:44.064|DEX[INFO] ** START ** 2013-10-29 10:33:44.064 Software version: 4.8.2
+2013-10-29 10:33:44.064|DEX[INFO] No license code
+2013-10-29 10:33:44.065|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:33:44.065|GraphPool[SEVERE] Error loading the file "/Users/yliu/Documents/ca-AstroPh_Dex".
+2013-10-29 10:33:44.237|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:33:44.237|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 10:33:44.237|DEX[INFO] Scheduler stopped.
+2013-10-29 10:33:44.237|DEX[INFO] ** SHUTDOWN ** 2013-10-29 10:33:44.237
+2013-10-29 10:33:50.458|DEX[INFO] ** START ** 2013-10-29 10:33:50.458 Software version: 4.8.2
+2013-10-29 10:33:50.458|DEX[INFO] No license code
+2013-10-29 10:33:50.458|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:33:50.459|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:33:50.660|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:33:50.660|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 10:33:50.661|DEX[INFO] Scheduler stopped.
+2013-10-29 10:33:50.661|DEX[INFO] ** SHUTDOWN ** 2013-10-29 10:33:50.661
+2013-10-29 10:33:51.679|DEX[INFO] ** START ** 2013-10-29 10:33:51.679 Software version: 4.8.2
+2013-10-29 10:33:51.679|DEX[INFO] No license code
+2013-10-29 10:33:51.679|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:33:51.680|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:33:51.882|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:33:51.882|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 10:33:51.882|DEX[INFO] Scheduler stopped.
+2013-10-29 10:33:51.882|DEX[INFO] ** SHUTDOWN ** 2013-10-29 10:33:51.882
+2013-10-29 10:33:52.876|DEX[INFO] ** START ** 2013-10-29 10:33:52.876 Software version: 4.8.2
+2013-10-29 10:33:52.876|DEX[INFO] No license code
+2013-10-29 10:33:52.876|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:33:52.877|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:33:53.078|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:33:53.078|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 10:33:53.078|DEX[INFO] Scheduler stopped.
+2013-10-29 10:33:53.078|DEX[INFO] ** SHUTDOWN ** 2013-10-29 10:33:53.078
+2013-10-29 10:33:53.922|DEX[INFO] ** START ** 2013-10-29 10:33:53.921 Software version: 4.8.2
+2013-10-29 10:33:53.922|DEX[INFO] No license code
+2013-10-29 10:33:53.922|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:33:53.923|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:33:54.124|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:33:54.124|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 10:33:54.124|DEX[INFO] Scheduler stopped.
+2013-10-29 10:33:54.124|DEX[INFO] ** SHUTDOWN ** 2013-10-29 10:33:54.124
+2013-10-29 10:41:24.480|DEX[INFO] ** START ** 2013-10-29 10:41:24.480 Software version: 4.8.2
+2013-10-29 10:41:24.481|DEX[INFO] No license code
+2013-10-29 10:41:24.481|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:41:24.481|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been created at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:41:24.683|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:41:24.683|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 10:41:24.683|DEX[INFO] Scheduler stopped.
+2013-10-29 10:41:24.683|DEX[INFO] ** SHUTDOWN ** 2013-10-29 10:41:24.683
+2013-10-29 10:42:45.327|DEX[INFO] ** START ** 2013-10-29 10:42:45.327 Software version: 4.8.2
+2013-10-29 10:42:45.327|DEX[INFO] No license code
+2013-10-29 10:42:45.327|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:42:45.328|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:42:45.529|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:42:45.529|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 10:42:45.529|DEX[INFO] Scheduler stopped.
+2013-10-29 10:42:45.529|DEX[INFO] ** SHUTDOWN ** 2013-10-29 10:42:45.529
+2013-10-29 10:42:56.228|DEX[INFO] ** START ** 2013-10-29 10:42:56.228 Software version: 4.8.2
+2013-10-29 10:42:56.228|DEX[INFO] No license code
+2013-10-29 10:42:56.228|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:42:56.229|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:47:38.520|DEX[INFO] ** START ** 2013-10-29 10:47:38.520 Software version: 4.8.2
+2013-10-29 10:47:38.520|DEX[INFO] No license code
+2013-10-29 10:47:38.520|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:47:38.522|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:47:38.723|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:47:38.723|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 10:47:38.723|DEX[INFO] Scheduler stopped.
+2013-10-29 10:47:38.723|DEX[INFO] ** SHUTDOWN ** 2013-10-29 10:47:38.723
+2013-10-29 10:47:39.607|DEX[INFO] ** START ** 2013-10-29 10:47:39.607 Software version: 4.8.2
+2013-10-29 10:47:39.608|DEX[INFO] No license code
+2013-10-29 10:47:39.608|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:47:39.609|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:47:39.809|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:47:39.809|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 10:47:39.809|DEX[INFO] Scheduler stopped.
+2013-10-29 10:47:39.809|DEX[INFO] ** SHUTDOWN ** 2013-10-29 10:47:39.809
+2013-10-29 10:47:59.828|DEX[INFO] ** START ** 2013-10-29 10:47:59.828 Software version: 4.8.2
+2013-10-29 10:47:59.828|DEX[INFO] No license code
+2013-10-29 10:47:59.828|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:47:59.829|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:48:00.029|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:48:00.030|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 10:48:00.030|DEX[INFO] Scheduler stopped.
+2013-10-29 10:48:00.030|DEX[INFO] ** SHUTDOWN ** 2013-10-29 10:48:00.030
+2013-10-29 10:48:08.957|DEX[INFO] ** START ** 2013-10-29 10:48:08.957 Software version: 4.8.2
+2013-10-29 10:48:08.957|DEX[INFO] No license code
+2013-10-29 10:48:08.957|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:48:08.958|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:48:09.158|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:48:09.158|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 10:48:09.159|DEX[INFO] Scheduler stopped.
+2013-10-29 10:48:09.159|DEX[INFO] ** SHUTDOWN ** 2013-10-29 10:48:09.159
+2013-10-29 10:48:10.512|DEX[INFO] ** START ** 2013-10-29 10:48:10.512 Software version: 4.8.2
+2013-10-29 10:48:10.512|DEX[INFO] No license code
+2013-10-29 10:48:10.512|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:48:10.533|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:48:10.734|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:48:10.735|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 10:48:10.735|DEX[INFO] Scheduler stopped.
+2013-10-29 10:48:10.735|DEX[INFO] ** SHUTDOWN ** 2013-10-29 10:48:10.735
+2013-10-29 10:48:11.642|DEX[INFO] ** START ** 2013-10-29 10:48:11.642 Software version: 4.8.2
+2013-10-29 10:48:11.642|DEX[INFO] No license code
+2013-10-29 10:48:11.642|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:48:11.643|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:48:11.845|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:48:11.845|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 10:48:11.845|DEX[INFO] Scheduler stopped.
+2013-10-29 10:48:11.845|DEX[INFO] ** SHUTDOWN ** 2013-10-29 10:48:11.845
+2013-10-29 10:51:00.757|DEX[INFO] ** START ** 2013-10-29 10:51:00.757 Software version: 4.8.2
+2013-10-29 10:51:00.757|DEX[INFO] No license code
+2013-10-29 10:51:00.757|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:51:00.758|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:51:00.960|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:51:00.960|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 10:51:00.960|DEX[INFO] Scheduler stopped.
+2013-10-29 10:51:00.960|DEX[INFO] ** SHUTDOWN ** 2013-10-29 10:51:00.960
+2013-10-29 10:51:54.837|DEX[INFO] ** START ** 2013-10-29 10:51:54.837 Software version: 4.8.2
+2013-10-29 10:51:54.837|DEX[INFO] No license code
+2013-10-29 10:51:54.837|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:51:54.838|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:52:45.957|DEX[INFO] ** START ** 2013-10-29 10:52:45.957 Software version: 4.8.2
+2013-10-29 10:52:45.958|DEX[INFO] No license code
+2013-10-29 10:52:45.958|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:52:45.960|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:53:54.804|DEX[INFO] ** START ** 2013-10-29 10:53:54.804 Software version: 4.8.2
+2013-10-29 10:53:54.804|DEX[INFO] No license code
+2013-10-29 10:53:54.805|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:53:54.807|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:54:14.866|DEX[INFO] ** START ** 2013-10-29 10:54:14.866 Software version: 4.8.2
+2013-10-29 10:54:14.866|DEX[INFO] No license code
+2013-10-29 10:54:14.866|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:54:14.869|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:54:23.506|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 10:54:23.506|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 10:54:23.507|DEX[INFO] Scheduler stopped.
+2013-10-29 10:54:23.507|DEX[INFO] ** SHUTDOWN ** 2013-10-29 10:54:23.507
+2013-10-29 10:56:08.454|DEX[INFO] ** START ** 2013-10-29 10:56:08.454 Software version: 4.8.2
+2013-10-29 10:56:08.454|DEX[INFO] No license code
+2013-10-29 10:56:08.454|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 10:56:08.455|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 11:02:58.556|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 11:02:58.556|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 11:02:58.556|DEX[INFO] Scheduler stopped.
+2013-10-29 11:02:58.556|DEX[INFO] ** SHUTDOWN ** 2013-10-29 11:02:58.556
+2013-10-29 11:06:11.496|DEX[INFO] ** START ** 2013-10-29 11:06:11.496 Software version: 4.8.2
+2013-10-29 11:06:11.496|DEX[INFO] No license code
+2013-10-29 11:06:11.496|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 11:06:11.497|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 11:06:11.698|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 11:06:11.698|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 11:06:11.698|DEX[INFO] Scheduler stopped.
+2013-10-29 11:06:11.698|DEX[INFO] ** SHUTDOWN ** 2013-10-29 11:06:11.698
+2013-10-29 11:08:06.355|DEX[INFO] ** START ** 2013-10-29 11:08:06.355 Software version: 4.8.2
+2013-10-29 11:08:06.355|DEX[INFO] No license code
+2013-10-29 11:08:06.355|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 11:08:06.356|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 11:08:06.557|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 11:08:06.557|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 11:08:06.557|DEX[INFO] Scheduler stopped.
+2013-10-29 11:08:06.557|DEX[INFO] ** SHUTDOWN ** 2013-10-29 11:08:06.557
+2013-10-29 11:08:20.545|DEX[INFO] ** START ** 2013-10-29 11:08:20.545 Software version: 4.8.2
+2013-10-29 11:08:20.545|DEX[INFO] No license code
+2013-10-29 11:08:20.545|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 11:08:20.546|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 11:08:20.952|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 11:08:20.952|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 11:08:20.953|DEX[INFO] Scheduler stopped.
+2013-10-29 11:08:20.953|DEX[INFO] ** SHUTDOWN ** 2013-10-29 11:08:20.953
+2013-10-29 11:08:32.111|DEX[INFO] ** START ** 2013-10-29 11:08:32.111 Software version: 4.8.2
+2013-10-29 11:08:32.112|DEX[INFO] No license code
+2013-10-29 11:08:32.112|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 11:08:32.113|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 11:08:34.330|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 11:08:34.330|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 11:08:34.330|DEX[INFO] Scheduler stopped.
+2013-10-29 11:08:34.330|DEX[INFO] ** SHUTDOWN ** 2013-10-29 11:08:34.330
+2013-10-29 11:10:59.491|DEX[INFO] ** START ** 2013-10-29 11:10:59.491 Software version: 4.8.2
+2013-10-29 11:10:59.491|DEX[INFO] No license code
+2013-10-29 11:10:59.491|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 11:10:59.492|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 11:11:20.003|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 11:11:20.003|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 11:11:20.003|DEX[INFO] Scheduler stopped.
+2013-10-29 11:11:20.003|DEX[INFO] ** SHUTDOWN ** 2013-10-29 11:11:20.003
+2013-10-29 11:11:31.528|DEX[INFO] ** START ** 2013-10-29 11:11:31.528 Software version: 4.8.2
+2013-10-29 11:11:31.528|DEX[INFO] No license code
+2013-10-29 11:11:31.528|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 11:11:31.530|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 11:11:33.742|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 11:11:33.742|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 11:11:33.742|DEX[INFO] Scheduler stopped.
+2013-10-29 11:11:33.742|DEX[INFO] ** SHUTDOWN ** 2013-10-29 11:11:33.742
+2013-10-29 11:11:42.572|DEX[INFO] ** START ** 2013-10-29 11:11:42.572 Software version: 4.8.2
+2013-10-29 11:11:42.572|DEX[INFO] No license code
+2013-10-29 11:11:42.572|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 11:11:42.573|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 11:12:55.741|DEX[INFO] ** START ** 2013-10-29 11:12:55.741 Software version: 4.8.2
+2013-10-29 11:12:55.741|DEX[INFO] No license code
+2013-10-29 11:12:55.742|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 11:12:55.744|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 11:12:56.949|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 11:12:56.949|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 11:12:56.950|DEX[INFO] Scheduler stopped.
+2013-10-29 11:12:56.950|DEX[INFO] ** SHUTDOWN ** 2013-10-29 11:12:56.950
+2013-10-29 11:13:13.074|DEX[INFO] ** START ** 2013-10-29 11:13:13.074 Software version: 4.8.2
+2013-10-29 11:13:13.074|DEX[INFO] No license code
+2013-10-29 11:13:13.074|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 11:13:13.075|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 11:13:14.285|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 11:13:14.285|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 11:13:14.285|DEX[INFO] Scheduler stopped.
+2013-10-29 11:13:14.285|DEX[INFO] ** SHUTDOWN ** 2013-10-29 11:13:14.285
+2013-10-29 11:13:17.398|DEX[INFO] ** START ** 2013-10-29 11:13:17.398 Software version: 4.8.2
+2013-10-29 11:13:17.399|DEX[INFO] No license code
+2013-10-29 11:13:17.399|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 11:13:17.399|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 11:13:18.811|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 11:13:18.811|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 11:13:18.812|DEX[INFO] Scheduler stopped.
+2013-10-29 11:13:18.812|DEX[INFO] ** SHUTDOWN ** 2013-10-29 11:13:18.812
+2013-10-29 11:13:38.572|DEX[INFO] ** START ** 2013-10-29 11:13:38.572 Software version: 4.8.2
+2013-10-29 11:13:38.572|DEX[INFO] No license code
+2013-10-29 11:13:38.572|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 11:13:38.573|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 11:13:51.431|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 11:13:51.431|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 11:13:51.431|DEX[INFO] Scheduler stopped.
+2013-10-29 11:13:51.431|DEX[INFO] ** SHUTDOWN ** 2013-10-29 11:13:51.431
+2013-10-29 11:19:08.366|DEX[INFO] ** START ** 2013-10-29 11:19:08.366 Software version: 4.8.2
+2013-10-29 11:19:08.366|DEX[INFO] No license code
+2013-10-29 11:19:08.366|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 11:19:08.367|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 11:19:08.568|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 11:19:08.568|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 11:19:08.569|DEX[INFO] Scheduler stopped.
+2013-10-29 11:19:08.569|DEX[INFO] ** SHUTDOWN ** 2013-10-29 11:19:08.569
+2013-10-29 11:26:44.688|DEX[INFO] ** START ** 2013-10-29 11:26:44.688 Software version: 4.8.2
+2013-10-29 11:26:44.688|DEX[INFO] No license code
+2013-10-29 11:26:44.688|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 11:26:44.691|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 11:29:30.889|DEX[INFO] ** START ** 2013-10-29 11:29:30.889 Software version: 4.8.2
+2013-10-29 11:29:30.889|DEX[INFO] No license code
+2013-10-29 11:29:30.889|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 11:29:30.891|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 14:04:06.515|DEX[INFO] ** START ** 2013-10-29 14:04:06.515 Software version: 4.8.2
+2013-10-29 14:04:06.515|DEX[INFO] No license code
+2013-10-29 14:04:06.515|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 14:04:06.519|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 14:04:06.720|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 14:04:06.720|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 14:04:06.721|DEX[INFO] Scheduler stopped.
+2013-10-29 14:04:06.721|DEX[INFO] ** SHUTDOWN ** 2013-10-29 14:04:06.721
+2013-10-29 14:06:06.486|DEX[INFO] ** START ** 2013-10-29 14:06:06.486 Software version: 4.8.2
+2013-10-29 14:06:06.486|DEX[INFO] No license code
+2013-10-29 14:06:06.486|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 14:06:06.487|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been created at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 14:06:06.688|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 14:06:06.688|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 14:06:06.688|DEX[INFO] Scheduler stopped.
+2013-10-29 14:06:06.688|DEX[INFO] ** SHUTDOWN ** 2013-10-29 14:06:06.688
+2013-10-29 14:14:17.860|DEX[INFO] ** START ** 2013-10-29 14:14:17.860 Software version: 4.8.2
+2013-10-29 14:14:17.860|DEX[INFO] No license code
+2013-10-29 14:14:17.860|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 14:14:17.861|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 14:52:56.533|DEX[INFO] ** START ** 2013-10-29 14:52:56.533 Software version: 4.8.2
+2013-10-29 14:52:56.533|DEX[INFO] No license code
+2013-10-29 14:52:56.533|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 14:52:56.534|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been created at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 14:52:56.735|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 14:52:56.735|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 14:52:56.735|DEX[INFO] Scheduler stopped.
+2013-10-29 14:52:56.735|DEX[INFO] ** SHUTDOWN ** 2013-10-29 14:52:56.735
+2013-10-29 14:53:09.208|DEX[INFO] ** START ** 2013-10-29 14:53:09.208 Software version: 4.8.2
+2013-10-29 14:53:09.208|DEX[INFO] No license code
+2013-10-29 14:53:09.208|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 14:53:09.209|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 14:53:09.411|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 14:53:09.411|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 14:53:09.411|DEX[INFO] Scheduler stopped.
+2013-10-29 14:53:09.411|DEX[INFO] ** SHUTDOWN ** 2013-10-29 14:53:09.411
+2013-10-29 14:53:42.439|DEX[INFO] ** START ** 2013-10-29 14:53:42.439 Software version: 4.8.2
+2013-10-29 14:53:42.439|DEX[INFO] No license code
+2013-10-29 14:53:42.439|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 14:53:42.441|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 14:53:42.642|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 14:53:42.642|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 14:53:42.642|DEX[INFO] Scheduler stopped.
+2013-10-29 14:53:42.643|DEX[INFO] ** SHUTDOWN ** 2013-10-29 14:53:42.642
+2013-10-29 14:54:58.570|DEX[INFO] ** START ** 2013-10-29 14:54:58.570 Software version: 4.8.2
+2013-10-29 14:54:58.570|DEX[INFO] No license code
+2013-10-29 14:54:58.570|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 14:54:58.571|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 14:56:15.711|DEX[INFO] ** START ** 2013-10-29 14:56:15.711 Software version: 4.8.2
+2013-10-29 14:56:15.711|DEX[INFO] No license code
+2013-10-29 14:56:15.711|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 14:56:15.714|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 14:56:15.915|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 14:56:15.915|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 14:56:15.915|DEX[INFO] Scheduler stopped.
+2013-10-29 14:56:15.915|DEX[INFO] ** SHUTDOWN ** 2013-10-29 14:56:15.915
+2013-10-29 14:56:18.595|DEX[INFO] ** START ** 2013-10-29 14:56:18.595 Software version: 4.8.2
+2013-10-29 14:56:18.595|DEX[INFO] No license code
+2013-10-29 14:56:18.596|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 14:56:18.596|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 14:56:18.797|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 14:56:18.797|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 14:56:18.798|DEX[INFO] Scheduler stopped.
+2013-10-29 14:56:18.798|DEX[INFO] ** SHUTDOWN ** 2013-10-29 14:56:18.798
+2013-10-29 14:56:19.644|DEX[INFO] ** START ** 2013-10-29 14:56:19.644 Software version: 4.8.2
+2013-10-29 14:56:19.644|DEX[INFO] No license code
+2013-10-29 14:56:19.644|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 14:56:19.645|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 14:56:19.846|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 14:56:19.846|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 14:56:19.847|DEX[INFO] Scheduler stopped.
+2013-10-29 14:56:19.847|DEX[INFO] ** SHUTDOWN ** 2013-10-29 14:56:19.847
+2013-10-29 14:56:20.726|DEX[INFO] ** START ** 2013-10-29 14:56:20.726 Software version: 4.8.2
+2013-10-29 14:56:20.726|DEX[INFO] No license code
+2013-10-29 14:56:20.726|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 14:56:20.727|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 14:56:20.928|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 14:56:20.929|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 14:56:20.929|DEX[INFO] Scheduler stopped.
+2013-10-29 14:56:20.929|DEX[INFO] ** SHUTDOWN ** 2013-10-29 14:56:20.929
+2013-10-29 14:56:22.177|DEX[INFO] ** START ** 2013-10-29 14:56:22.177 Software version: 4.8.2
+2013-10-29 14:56:22.177|DEX[INFO] No license code
+2013-10-29 14:56:22.177|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 14:56:22.177|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 14:56:22.379|GraphPool[INFO] Closed /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 14:56:22.379|GraphPool[WARNING] Removed /Users/yliu/Documents/ca-AstroPh_Dex.tmp
+2013-10-29 14:56:22.379|DEX[INFO] Scheduler stopped.
+2013-10-29 14:56:22.379|DEX[INFO] ** SHUTDOWN ** 2013-10-29 14:56:22.379
+2013-10-29 14:58:59.782|DEX[INFO] ** START ** 2013-10-29 14:58:59.782 Software version: 4.8.2
+2013-10-29 14:58:59.782|DEX[INFO] No license code
+2013-10-29 14:58:59.783|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 14:58:59.783|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 15:11:23.310|DEX[INFO] ** START ** 2013-10-29 15:11:23.310 Software version: 4.8.2
+2013-10-29 15:11:23.310|DEX[INFO] No license code
+2013-10-29 15:11:23.310|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 15:11:23.313|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 15:11:23.333|DEX[INFO] ** START ** 2013-10-29 15:11:23.333 Software version: 4.8.2
+2013-10-29 15:11:23.333|DEX[INFO] No license code
+2013-10-29 15:11:23.333|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 15:11:23.333|GraphPool[SEVERE] Error loading the file "/Users/yliu/Documents/ca-AstroPh_Dex".
+2013-10-29 15:13:31.430|DEX[INFO] ** START ** 2013-10-29 15:13:31.430 Software version: 4.8.2
+2013-10-29 15:13:31.430|DEX[INFO] No license code
+2013-10-29 15:13:31.430|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 15:13:31.432|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 15:13:48.342|DEX[INFO] ** START ** 2013-10-29 15:13:48.342 Software version: 4.8.2
+2013-10-29 15:13:48.342|DEX[INFO] No license code
+2013-10-29 15:13:48.342|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 15:13:48.345|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 15:13:54.448|DEX[INFO] ** START ** 2013-10-29 15:13:54.448 Software version: 4.8.2
+2013-10-29 15:13:54.448|DEX[INFO] No license code
+2013-10-29 15:13:54.448|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 15:13:54.450|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 15:13:54.452|DEX[INFO] ** START ** 2013-10-29 15:13:54.452 Software version: 4.8.2
+2013-10-29 15:13:54.452|DEX[INFO] No license code
+2013-10-29 15:13:54.452|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 15:13:54.452|GraphPool[SEVERE] Error loading the file "/Users/yliu/Documents/ca-AstroPh_Dex".
+2013-10-29 15:14:32.819|DEX[INFO] ** START ** 2013-10-29 15:14:32.819 Software version: 4.8.2
+2013-10-29 15:14:32.819|DEX[INFO] No license code
+2013-10-29 15:14:32.820|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 15:14:32.822|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
+2013-10-29 15:14:55.728|DEX[INFO] ** START ** 2013-10-29 15:14:55.728 Software version: 4.8.2
+2013-10-29 15:14:55.728|DEX[INFO] No license code
+2013-10-29 15:14:55.728|DEX[INFO] Scheduler started with 1 active threads.
+2013-10-29 15:14:55.730|DEX[INFO] GraphPool 'ca-AstroPh_Dex' has been opened at /Users/yliu/Documents/ca-AstroPh_Dex
